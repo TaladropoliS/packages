@@ -1,0 +1,1 @@
+camos el .gitignora para que se puedan ver los txt que no estan en la lista ignore
